@@ -1,3 +1,8 @@
+--Project: Covid Exploratory Analysis
+--Source: Data Analysis Bootcamp FCC (AlexTheAnalyst)
+--Modified/Edited by: EdyBlau
+--Date: 05/23/2024
+
 --Select *
 --From PortfolioProject..CovidVaccinations
 
