@@ -1,6 +1,7 @@
 ## __Data Analysis Portfolio Projects Repository__
 
 Hi! This is my repository to show the data analysis projects I've worked on.
+
 These are:
 
 - __Covid Data Exploration in SQL__
