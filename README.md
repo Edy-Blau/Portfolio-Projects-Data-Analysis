@@ -2,7 +2,8 @@
 
 Hi! This is my repository to show the data analysis projects I've worked on.
 
-These are:
+---------------------------------------------------------
+The following projects are based on the Data Analyst Bootcamp - https://www.youtube.com/watch?v=PSNXoAs2FtQ - Alex Freberg.
 
 - __Covid Data Exploration in SQL__
 - __Nashville Housing Data Cleaning in SQL__
@@ -12,5 +13,12 @@ These are:
 - __Data Professionals Dashboard in Power BI__
 - __Automating Crypto Website Pull with API in Python__
 
+---------------------------------------------------------
 
-Note: These projects are based on Data Analyst Bootcamp - https://www.youtube.com/watch?v=PSNXoAs2FtQ - Alex Freberg.
+The following projects are based on the "Data Analysis with Python" Certification by FreeCodeCamp.
+
+- __Demographic Data Analyzer__
+- __Basic Statistics Calculator__
+- __Medical Data Visualizer__
+- __Sea Level Predictor__
+- __Time Series Visualizer__
